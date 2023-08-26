@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://mapleutils.com
+Host: https://slazurin.github.io
 
 # Sitemaps
-Sitemap: https://mapleutils.com/sitemap.xml
+Sitemap: https://slazurin.github.io/sitemap.xml

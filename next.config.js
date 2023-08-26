@@ -26,6 +26,9 @@ const nextConfig = {
         }
         return config;
     },
+    basePath: '/mapleutils-web',
+    assetPrefix: '/mapleutils-web/',
+    output: 'export',
 };
 
 module.exports = nextConfig;

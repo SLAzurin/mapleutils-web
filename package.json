@@ -15,7 +15,6 @@
     "image-to-webp": "node ./scripts/optimize-image.js"
   },
   "dependencies": {
-    "@google-analytics/data": "^2.8.0",
     "@prisma/client": "^5.1.1",
     "@tanstack/react-query": "^4.29.14",
     "@tanstack/react-virtual": "^3.0.0-beta.54",

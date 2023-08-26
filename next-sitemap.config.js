@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-    siteUrl: 'https://mapleutils.com',
+    siteUrl: 'https://slazurin.github.io',
     generateRobotsTxt: true,
     generateIndexSitemap: false,
     exclude: [
@@ -8,4 +8,5 @@ module.exports = {
         '/zh-TW/farm/*',
         '/api/*',
     ],
+    
 };

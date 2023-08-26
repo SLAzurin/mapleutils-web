@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9842],{9842:function(e){e.exports=JSON.parse('{"seo":{"title":"Tower of Oz 36F","keywords":"36F, memo, note","description":"Tower of Oz 36F"},"title":"Tower of Oz Floor 36","step":"Step {{step}}","vertical":"Vertical","horizontal":"Horizontal"}')}}]);

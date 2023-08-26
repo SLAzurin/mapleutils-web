@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[722],{722:function(e){e.exports=JSON.parse('{"seo":{"title":"Tower of Oz 23F","keywords":"23F, invisible, hidden, platforms, map","description":"Tower of Oz 23F map"},"title":"Tower of Oz Floor 23","mapFull":"Full extraction","map1":"1st zone","map2":"2nd zone","map3":"3rd zone"}')}}]);

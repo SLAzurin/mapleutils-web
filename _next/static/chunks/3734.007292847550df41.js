@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3734],{3734:function(e){e.exports=JSON.parse('{"seo":{"title":"The Seed 49樓 模擬器","keywords":"49樓, 怪物, 剪影, 模擬器","description":"The Seed 49樓 模擬器"},"title":"The Seed 49樓 模擬器","restartConfirm":"您確定要重新開始嗎？","answer":"答案","hint":"提示","mobName":"怪物名稱","question":"那麼，這是什麼怪物？"}')}}]);

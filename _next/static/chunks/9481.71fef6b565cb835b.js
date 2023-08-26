@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9481],{9481:function(e){e.exports=JSON.parse('{"seo":{"title":"더 시드 23층","keywords":"23층, 맵, 가이드, 투명, 발판","description":"더 시드 23층 투명발판"},"title":"시드 23층","mapFull":"맵 전체 발판","map1":"첫 번째 구간 발판","map2":"두 번째 구간 발판","map3":"세 번째 구간 발판"}')}}]);

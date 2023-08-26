@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8279],{8279:function(e){e.exports=JSON.parse('{"seo":{"title":"The Seed 47樓","keywords":"47樓, 隱形, 隱藏, 平台, 地圖","description":"The Seed 47樓地圖"},"title":"The Seed 47樓","map":"隱形平台顯示","switchDescription":"開關以菇寶表示"}')}}]);

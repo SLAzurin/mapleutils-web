@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5441],{5441:function(e){e.exports=JSON.parse('{"seo":{"title":"The Seed 36樓","keywords":"36樓, 記錄","description":"The Seed 36樓"},"title":"The Seed 36樓","step":"第 {{step}} 步","vertical":"垂直","horizontal":"水平"}')}}]);

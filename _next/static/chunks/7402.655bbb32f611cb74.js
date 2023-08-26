@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7402],{7402:function(e){e.exports=JSON.parse('{"seo":{"title":"더 시드 36층","keywords":"36층, 메모, 기록","description":"더 시드 36층 메모지"},"title":"시드 36층","step":"{{step}} 단계","vertical":"세로","horizontal":"가로"}')}}]);

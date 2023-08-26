@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2781],{2781:function(e){e.exports=JSON.parse('{"seo":{"title":"더 시드 47층","keywords":"47층, 맵, 가이드, 투명, 발판","description":"더 시드 47층 투명발판"},"title":"시드 47층","map":"맵 투명 발판 가이드","switchDescription":"주황버섯이 있는 위치가 스위치입니다!"}')}}]);

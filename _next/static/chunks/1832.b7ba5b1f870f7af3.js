@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1832],{1832:function(e){e.exports=JSON.parse('{"seo":{"title":"The Seed 24樓","keywords":"24樓, 小鎮, 背景音樂, 音樂","description":"種子24樓背景音樂"},"title":"The Seed 24樓模擬器","restartConfirm":"您確定要重新開始嗎？","bgm":"背景音樂","hint":"提示","answer":"答案","bgmName":"音樂名稱"}')}}]);

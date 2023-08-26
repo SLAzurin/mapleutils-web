@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7819],{7819:function(e){e.exports=JSON.parse('{"seo":{"title":"더 시드 22층","keywords":"22층, 맵, 가이드, 투명, 발판, 구름","description":"더 시드 22층 구름 발판 가이드"},"title":"시드 22층","map1":"첫 번째 구간 발판","map2":"두 번째 구간 발판","map3":"구름 구간 발판","path":"루트","none":"없음","beginner":"시린이","expert":"시드좀 해봤다","gifTip":"움짤 팁"}')}}]);

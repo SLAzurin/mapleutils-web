@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5760],{5760:function(e){e.exports=JSON.parse('{"seo":{"title":"The Seed 39樓模擬器","keywords":"39樓, 問答, 模擬器","description":"The Seed 39樓模擬器"},"title":"The Seed 39樓模擬器","restartConfirm":"您確定要重新開始嗎？"}')}}]);

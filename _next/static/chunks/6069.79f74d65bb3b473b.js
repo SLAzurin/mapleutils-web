@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6069],{6069:function(_){_.exports=JSON.parse('{"LEFT_TO_RIGHT":"재료1 + 재료2 = 몹","RIGHT_TO_LEFT":"몹 = 재료1 + 재료2"}')}}]);

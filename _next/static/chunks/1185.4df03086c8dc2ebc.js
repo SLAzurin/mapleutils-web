@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1185],{1185:function(e){e.exports=JSON.parse('{"seo":{"title":"The Seed 22樓","keywords":"22F, 隱形, 隱藏, 平台, 地圖, 雲朵","description":"The Seed 22樓 地圖"},"title":"The Seed 22樓","map1":"第一區域","map2":"第二區域","map3":"雲朵區域","path":"路徑","none":"無","beginner":"初級","expert":"進階","gifTip":"GIF提示"}')}}]);

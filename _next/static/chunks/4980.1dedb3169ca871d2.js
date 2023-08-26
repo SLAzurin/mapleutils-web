@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4980],{4980:function(e){e.exports=JSON.parse('{"seo":{"title":"The Seed 23樓 隱藏地圖","keywords":"23F, 隱形, 隱藏, 平台, 地圖","description":"The Seed 23樓 地圖"},"title":"The Seed 23樓","mapFull":"完整地圖","map1":"第一區域","map2":"第二區域","map3":"第三區域"}')}}]);

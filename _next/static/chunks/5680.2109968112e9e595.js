@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5680],{5680:function(e){e.exports=JSON.parse('{"seo":{"title":"더 시드 39층 시뮬레이터","keywords":"39층, 족보, 문제 풀이, 문제, 정답, 퀴즈, 2급, 리레, 웨펖, 웨폰, 시린이, 시뮬레이터, 연습, 연습권, 시뮬","description":"더 시드 39층 문제 시뮬레이터"},"title":"시드 39층 시뮬레이터","restartConfirm":"정말로 다시시작 하시겠습니까?"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2743],{2743:function(o){o.exports=JSON.parse('{"seo":{"title":"Tower of Oz 39F Simulator","keywords":"39F, Q&A, Dorothy, simulator","description":"Tower of Oz 39F simulator"},"title":"Tower of Oz Floor 39 Simulator","restartConfirm":"Are you sure you want to restart?"}')}}]);

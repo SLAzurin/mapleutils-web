@@ -29,7 +29,7 @@ export const pretendardCss = [
     font-family: 'Pretendard';
     font-weight: ${font.weight};
     font-style: ${font.style};
-    src: url('${process.env.NEXT_PUBLIC_PATH_PREFIX}/fonts/${font.src}') format('woff2');
+    src: url('/fonts/${font.src}') format('woff2');
     font-display: swap;
   }`,
 ).join('\n');

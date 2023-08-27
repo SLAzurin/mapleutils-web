@@ -9,7 +9,6 @@ import 'react-toastify/dist/ReactToastify.css';
 import { ModalsProvider } from '@/ds/surfaces/modal/ModalsProvider';
 import Navigations from './Navigations';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
-import { Comments } from '@/components/comments/Comments';
 import { WindowPopupProvider } from '@/components/popup/WindowPopupProvider';
 import { Button } from '@/ds/inputs';
 import { DISCORD_URL, GITHUB_URL, KAKAOTALK_URL } from '@/utils/constants';
@@ -35,7 +34,6 @@ const Layout = ({ children }: PropsWithChildren) => {
                         <Main>
                             {children}
                         </Main>
-                        <Comments />
                     </ModalsProvider>
                 </WindowPopupProvider>
             </QueryClientProvider>
